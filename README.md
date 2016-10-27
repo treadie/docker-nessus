@@ -10,8 +10,7 @@ Nessus has been deployed for vulnerability, configuration and compliance assessm
 There isnt a Docker image that works. So I made one.
 
 ## versions
-`treadie/nessus:latest` - Nessus vulnerability scanner 6.8.1
-`treadie/nessus:6.8.1` - Nessus vulnerability scanner 6.8.1
+`treadie/nessus:latest` - Nessus vulnerability scanner 6.9.0
 
 ## How
 
